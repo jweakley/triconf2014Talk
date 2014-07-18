@@ -1,7 +1,8 @@
 {
     "dependencies": {
         "johnny-five": "",
-        "j5-songs": ""
+        "j5-songs": "",
+        "temporal": ""
     },
     "engines": {
         "node": "0.10.x",
