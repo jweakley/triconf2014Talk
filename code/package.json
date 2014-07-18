@@ -1,0 +1,19 @@
+{
+    "name": "pewpewpew",
+    "version": "0.0.1",
+    "homepage": "https://github.com/jweakley/nodebot",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:jweakley/nodebot.git"
+    },
+    "description": "Robot?",
+    "dependencies": {
+        "johnny-five": "",
+        "j5-songs": ""
+    },
+    "main": "app.js",
+    "engines": {
+        "node": "0.10.x",
+        "npm": "1.2.x"
+    }
+}
